@@ -15,3 +15,5 @@ Berg et.al's paper regarding reciprocal n-body collision avoidance goes into det
 - 3 dimensional movement
 - Movement in different mediums. Especially under water the robots could encounter vastly differing conditions because of water currents or even aquatic life like fish! This would stress the simple shape and perfect sensing assumptions made by the paper.
 - A number of new possibilities would open up on removing the restriction of the robots being unable to communicate with one another
+
+A good starting point might be to take the linear programming and physics framework that the paper has created for 2 movement in dimensions and expand it to include situations where the bots might encounter pools of water.
