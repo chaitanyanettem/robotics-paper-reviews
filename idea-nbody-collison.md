@@ -17,3 +17,6 @@ Berg et.al's paper regarding reciprocal n-body collision avoidance goes into det
 - A number of new possibilities would open up on removing the restriction of the robots being unable to communicate with one another
 
 A good starting point might be to take the linear programming and physics framework that the paper has created for 2 movement in dimensions and expand it to include situations where the bots might encounter pools of water.
+
+####I spoke with Zakieh and Ali regarding this idea and they had a couple of comments which I'm summarizing here:
+Expanding this idea to cover 3 dimensional movement is a lot more difficult than it may seem because the entire framework would have to be adapted for an extra dimension. It might or might not be possible to do it so a better idea would be to first adapt the linear program for the possibility of the bots encountering "water puddles" which would probably not take as much adjusting since the linear program is already in 3 dimensions.
