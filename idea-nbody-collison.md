@@ -20,3 +20,5 @@ A good starting point might be to take the linear programming and physics framew
 
 ####I spoke with Zakieh and Ali regarding this idea and they had a couple of comments which I'm summarizing here:
 Expanding this idea to cover 3 dimensional movement is a lot more difficult than it may seem because the entire framework would have to be adapted for an extra dimension. It might or might not be possible to do it so a better idea would be to first adapt the linear program for the possibility of the bots encountering "water puddles" which would probably not take as much adjusting since the linear program is already in 3 dimensions.
+
+Just as an update - I'm talking with Zakieh now and working on understanding the physics and the linear program involved more thoroughly to see how it can be adapted to our situation.
