@@ -1,4 +1,4 @@
-#Collison detection with Minkowski sum
+#An overview of collison detection with the Minkowski sum approach
 
 ##Introduction
 
@@ -16,3 +16,8 @@ http://resources.mpi-inf.mpg.de/departments/d1/teaching/ss10/Seminar_CGGC/Slides
 http://doc.cgal.org/latest/Minkowski_sum_3/index.html
 http://twistedoakstudios.com/blog/Post554_minkowski-sums-and-differences
 https://en.wikipedia.org/wiki/Minkowski_addition
+
+PS: This is Mr. Hermann Minkowski, a German mathematician: ![Hermann Minkowski][1]
+
+Interestingly Mr. Einstein was once a student of his.
+[1]: https://upload.wikimedia.org/wikipedia/commons/c/c5/De_Raum_zeit_Minkowski_Bild.jpg
