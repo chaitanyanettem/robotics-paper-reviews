@@ -8,6 +8,8 @@ One of the most important ways of doing collision detection is the Minkowski sum
 
 You can represent a shape by a set of all the points within that shape. That set can of course be of infinite size. For example you can define a triangle as the set of all points within that triangle. You can also define it as the set of its 3 vertices.
 
+So, a point is a set of just one element. And a circle is the set of all points within distance r of a point c. The Minkowski sum of A & B is the set of the sum of each point in A with each point in B.
+
 ##References
 
 I went through a lot of reading material in order to thoroughly understand minkowski sums. Here are some of the more useful ones:
