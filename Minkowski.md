@@ -15,8 +15,11 @@ So, a point is a set of just one element. And a circle is the set of all points 
 I went through a lot of reading material in order to thoroughly understand minkowski sums. Here are some of the more useful ones:
 
 http://resources.mpi-inf.mpg.de/departments/d1/teaching/ss10/Seminar_CGGC/Slides/07_Bock_MS.pdf
+
 http://doc.cgal.org/latest/Minkowski_sum_3/index.html
+
 http://twistedoakstudios.com/blog/Post554_minkowski-sums-and-differences
+
 https://en.wikipedia.org/wiki/Minkowski_addition
 
 PS: This is Mr. Hermann Minkowski, a German mathematician:
