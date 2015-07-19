@@ -19,7 +19,9 @@ http://doc.cgal.org/latest/Minkowski_sum_3/index.html
 http://twistedoakstudios.com/blog/Post554_minkowski-sums-and-differences
 https://en.wikipedia.org/wiki/Minkowski_addition
 
-PS: This is Mr. Hermann Minkowski, a German mathematician: ![Hermann Minkowski][1]
+PS: This is Mr. Hermann Minkowski, a German mathematician:
+
+![Hermann Minkowski][1]
 
 Interestingly Mr. Einstein was once a student of his.
 [1]: http://i.imgur.com/an7ifk8.jpg
