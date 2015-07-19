@@ -22,4 +22,4 @@ https://en.wikipedia.org/wiki/Minkowski_addition
 PS: This is Mr. Hermann Minkowski, a German mathematician: ![Hermann Minkowski][1]
 
 Interestingly Mr. Einstein was once a student of his.
-[1]: https://upload.wikimedia.org/wikipedia/commons/c/c5/De_Raum_zeit_Minkowski_Bild.jpg
+[1]: http://i.imgur.com/an7ifk8.jpg
